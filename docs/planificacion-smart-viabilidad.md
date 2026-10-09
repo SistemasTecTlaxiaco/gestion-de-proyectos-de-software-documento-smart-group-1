@@ -8,7 +8,7 @@
 
 ---
 
-## 1. Formulación del Objetivo SMART
+## 1. Formulación del Objetivo SMART.
 
 > **Objetivo del Proyecto:**  
 > "Desarrollar y validar un Producto Mínimo Viable (MVP) con arquitectura *offline-first* y contratos inteligentes en Soroban (Stellar) para registrar la autoría inmutable de al menos **50 prendas artesanales** y dispersar liquidaciones con costo de gas patrocinado (*fee-bump*) a **15 talleres textiles** de la Mixteca Alta oaxaqueña, alcanzando un tiempo de carga inferior a **3 segundos en redes 2G** y una tasa de éxito transaccional del **98%**, en un periodo de **14 semanas (Sprints 1 al 4)** bajo el marco eduScrum."
@@ -22,7 +22,7 @@
 
 ---
 
-## 2. Trazabilidad con Sprints 1 y 2 (Backlog y Costo de la Calidad)
+## 2. Trazabilidad con Sprints 1 y 2 (Backlog y Costo de la Calidad).
 
 El presente plan de viabilidad se sustenta rigurosamente en las métricas de ingeniería de software obtenidas en los ciclos previos:
 
