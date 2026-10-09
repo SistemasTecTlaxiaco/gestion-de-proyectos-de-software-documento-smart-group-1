@@ -1,10 +1,10 @@
-# 📑 Documento Detallado: Objetivo SMART y Análisis de Viabilidad Multidimensional
+# Documento Detallado: Objetivo SMART y Análisis de Viabilidad Multidimensional
 **Asignatura:** Gestión de Proyectos de Software (SCG-1009)  
 **Unidad 3:** Planificación del Proyecto  
 **Iniciativa / Ecosistema:** Open Hub Tec (Instituto Tecnológico de Tlaxiaco)  
 **Proyecto:** TisaaSavi / Noble Origen (Trazabilidad y Liquidación Textil)  
 **Marco de Trabajo:** eduScrum (Sprint 3)  
-**Fecha:** Octubre 2026  
+**Fecha:** 09 Octubre 2026  
 
 ---
 
@@ -79,7 +79,7 @@ A partir de la auditoría de calidad realizada a una tarifa estándar de **$150.
 | **Operativa** | **VIABLE** | Backlog dimensionado en 33 h de calidad y distribución factible en el equipo eduScrum. |
 | **Financiera** | **VIABLE** | Los costos del proyecto ($1,430 USD) están cubiertos en más de un 300% por los tramos iniciales de SCF y Drips. |
 
-> ### 🟢 DICTAMEN FINAL: **GO (PROYECTO VIABLE Y APROBADO)**  
+> ### DICTAMEN FINAL: **GO (PROYECTO VIABLE Y APROBADO)**  
 > Se autoriza el paso a la fase de ejecución integral del Sprint 3. El proyecto satisface las condiciones de impacto territorial, sostenibilidad económica mediante mecanismos Web3 y factibilidad técnica bajo las restricciones del entorno regional de la Mixteca.
 
 ---
