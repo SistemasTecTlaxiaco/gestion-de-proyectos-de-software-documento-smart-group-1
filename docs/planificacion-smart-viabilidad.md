@@ -2,7 +2,7 @@
 **Asignatura:** Gestión de Proyectos de Software (SCG-1009)  
 **Unidad 3:** Planificación del Proyecto  
 **Iniciativa / Ecosistema:** Open Hub Tec (Instituto Tecnológico de Tlaxiaco)  
-**Proyecto:** TisaaSavi / Noble Origen (Trazabilidad y Liquidación Textil)  
+**Proyecto:** TisaaSavi / (Trazabilidad y Liquidación Textil)  
 **Marco de Trabajo:** eduScrum (Sprint 3)  
 **Fecha:** 09 Octubre 2026  
 
