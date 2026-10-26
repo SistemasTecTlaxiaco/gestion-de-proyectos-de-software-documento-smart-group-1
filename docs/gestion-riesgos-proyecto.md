@@ -10,7 +10,7 @@
 
 **Iniciativa:** Open Hub Tec
 
-**Proyecto:** TisaaSavi (Noble Origen) — Trazabilidad y Liquidación Textil
+**Proyecto:** TisaaSavi — Trazabilidad y Liquidación Textil
 
 **Región de aplicación:** Mixteca de Oaxaca
 
